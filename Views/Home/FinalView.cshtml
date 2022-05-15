@@ -1,0 +1,89 @@
+﻿
+
+@model Make_Orders.Models.Common
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+    <style src="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css"></style>
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.2.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.2.2/js/buttons.print.min.js"></script>  
+ 
+
+</head>
+<body>
+
+<h2>Information Overview</h2>
+
+<h4>Order Summary</h4>
+<table class="table" id="myTable1">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Order Name</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.order){
+            <tr>
+                <td>@item.OrdersID</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+            </tr>
+ }
+    </tbody>
+</table>
+
+<h4>Items Summary</h4>
+<table class="table" id="myTable2">
+    <thead>
+        <tr>
+            <td>Item ID</td>
+            <td>Item Name</td>
+            <td>Type</td>
+            <td>Rate</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model.item){
+            <tr>
+                <td>@item.ItemsID</td>
+                <td>@item.ItemsName</td>
+                <td>@item.Item_type</td>
+                <td>@item.Rate</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+<div>
+    <a asp-action="Main" type="button" class="btn btn-primary">Back to Form</a>
+</div>
+
+    <script>    
+        $(document).ready( function () {
+            $('#myTable1,#myTable2').DataTable({
+                dom: 'Bfrtip',
+                buttons: [
+                    'print'
+                ]
+            });
+
+        });
+    </script>
+    
+</body>
+</html>

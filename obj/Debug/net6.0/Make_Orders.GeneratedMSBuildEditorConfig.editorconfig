@@ -1,0 +1,92 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Make_Orders
+build_property.RootNamespace = Make_Orders
+build_property.ProjectDir = F:\DotNet\Make_Orders\Make_Orders\Make_Orders\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\DotNet\Make_Orders\Make_Orders\Make_Orders
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Home/FinalView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaW5hbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Home/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ite/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ite/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ite/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ite/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ite/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ord/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ord/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ord/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ord/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Ord/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/DotNet/Make_Orders/Make_Orders/Make_Orders/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7e5njtu6cl
